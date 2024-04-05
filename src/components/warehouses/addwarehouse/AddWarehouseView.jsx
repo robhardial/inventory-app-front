@@ -5,7 +5,6 @@ import { createWarehouse } from "../warehouses.api";
 import { Link } from "react-router-dom";
 
 export const AddWarehouseView = ({ onSubmit }) => {
-  
   const [name, setName] = useState("");
   const [location, setLocation] = useState("");
   const [capacity, setCapacity] = useState("");

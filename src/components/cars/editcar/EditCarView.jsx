@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Box, TextField, Button, Stack } from "@mui/material";
 import { MiniDrawer } from "../../../layouts/Drawer";
-import { Link, useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { useLocation } from "react-router-dom";
 import { editCars } from "../cars.api";
 import { Decimal } from "decimal.js";

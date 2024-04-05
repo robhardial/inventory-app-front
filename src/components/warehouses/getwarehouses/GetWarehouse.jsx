@@ -19,7 +19,7 @@ export const Warehouse = () => {
         );
         setWarehouses(cleanedWarehouse);
       }
-    })(); 
+    })();
   }, [warehouses]);
   return <WarehouseView warehouses={warehouses} />;
 };

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { MiniDrawer } from "../../../layouts/Drawer";
 import { DataGrid } from "../../../elements/datagrid/Datagrid";
 import { Box, Button, Stack } from "@mui/material";
@@ -11,7 +11,6 @@ export const WarehouseView = ({ warehouses }) => {
       // Send a DELETE request to the backend to delete the warehouse with the specified ID
       await deleteWarehouse(id);
       console.log(`Warehouse with ID ${id} deleted successfully.`);
-      
     } catch (error) {
       console.error(`Error deleting warehouse with ID ${id}:`, error);
     }
@@ -78,7 +77,7 @@ export const WarehouseView = ({ warehouses }) => {
       </Box>
       <DataGrid
         columns={columns}
-        rows={warehouses.map((warehouse, index) => ({
+        rows={warehouses.map((warehouse) => ({
           ...warehouse,
           id: warehouse.id,
         }))}
