@@ -8,7 +8,6 @@ import { Decimal } from "decimal.js";
 export const AddCarView = ({ onSumbit }) => {
   const { id } = useParams();
 
-  
   const [make, setMake] = useState("");
   const [model, setModel] = useState("");
   const [year, setYear] = useState(0);
@@ -35,7 +34,7 @@ export const AddCarView = ({ onSumbit }) => {
 
       console.log("Car added successfully:", response);
 
-      // Clear form 
+      // Clear form
       setMake("");
       setModel("");
       setPrice("");
