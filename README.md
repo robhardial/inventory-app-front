@@ -5,6 +5,17 @@ Welcome to the frontend of the UniStock application. A user-friendly frontend fo
 
 - [**Robert Hardial**](https://github.com/robhardial)
 
+### Installation
+1. Clone the repository:
+git clone git@github.com:robhardial/unistock-app-front.git
+
+2. Install dependencies:
+   npm install
+
+3. Start application:
+   npm run dev
+
+
 ## Built With
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
