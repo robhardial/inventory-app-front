@@ -7,5 +7,5 @@ Technologies: React, Vite, Material-UI (MUI), React Router
 - [**Robert Hardial**](https://github.com/robhardial)
 
 ## Built With
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
