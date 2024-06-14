@@ -1,8 +1,11 @@
-# React + Vite
+# UniStock Frontend
+Welcome to the frontend of the UniStock application. A user-friendly frontend for car inventory management, built with React and Vite. It utilizes React Router for seamless navigation and Material-UI for an intuitive user interface. Key features include product listings and real-time stock updates.
+Technologies: React, Vite, Material-UI (MUI), React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Author
 
-Currently, two official plugins are available:
+- [**Robert Hardial**](https://github.com/robhardial)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built With
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
+
