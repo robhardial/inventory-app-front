@@ -1,6 +1,5 @@
 # UniStock Frontend
 Welcome to the frontend of the UniStock application. A user-friendly frontend for car inventory management, built with React and Vite. It utilizes React Router for seamless navigation and Material-UI for an intuitive user interface. Key features include product listings and real-time stock updates.
-Technologies: React, Vite, Material-UI (MUI), React Router
 
 ## Author
 
