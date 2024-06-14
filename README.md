@@ -8,5 +8,5 @@ Technologies: React, Vite, Material-UI (MUI), React Router
 
 ## Built With
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white)
